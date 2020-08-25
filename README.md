@@ -18,7 +18,7 @@ Ao clicar no botão barra efetuar o login, o sistema abre uma janela modal
 contendo os campos de usuário e senha, e logo abaixo um botão para efetuar o
 acesso, como mostra a Figura 10.
 
-![TELA 2](img/tela2.png)
+![TELA 2](img/tela2.PNG)
 
 ### 3. Tela de mapa de farmácias.
 
@@ -26,7 +26,7 @@ Através da tela citada na Figura 11, o usuário possui acesso ao mapa de
 farmácias, onde o mesmo pode localizar a farmácias da região informada em um
 raio de 2 km
 
-![TELA 3](img/tela3.png)
+![TELA 3](img/tela3.PNG)
 ### 4. Tela de cadastro de remédios.
 
 Para realizar o cadastro de medicamentos não encontrados no sistema, e
@@ -37,7 +37,7 @@ remédios cadastrados. Para efetuar o cadastro de um novo medicamento é
 necessário que o usuário tenha acessado o sistema. Ao fim do procedimento, o
 remédio será enviado para aprovação do administrador do sistema.
 
-![TELA 4](img/tela4.png)
+![TELA 4](img/tela4.PNG)
 ### 5. Tela de cadastro de redes.
 
 A tela Cadastro de Rede, representada pela Figura 13, possibilita ao usuário
@@ -46,7 +46,7 @@ procedimento, o usuário ter acessado o sistema e informar obrigatoriamente o no
 da rede. Ao fim do procedimento, a rede será enviada para aprovação do
 administrador do sistema
 
-![TELA 5](img/tela5.png)
+![TELA 5](img/tela5.PNG)
 ### 6. Tela de cadastro de farmácias.
 
 Caso a farmácia desejada não exista no sistema ao informar o preço do
@@ -55,7 +55,7 @@ Farmácia (Figura 14). O procedimento tem sucesso ao usuário realizar o acesso 
 sistema, preencher todos os campos e pressionar o botão salvar. Ao fim do
 procedimento, a farmácia será enviada para aprovação do administrador do sistema
 
-![TELA 6](img/tela6.png)
+![TELA 6](img/tela6.PNG)
 ### 7. Tela de análise de cadastros.
 
 Na tela de Análise de Cadastro (Figura 15), o usuário com perfil de
@@ -63,7 +63,7 @@ administrador tem a possibilidade de aceitar, editar ou recusar cadastros de
 remédios, redes e farmácias feitas por usuários do sistema. Está tela só é exibida
 para usuário com perfil de administrador do sistema
 
-![TELA 7](img/tela7.png)
+![TELA 7](img/tela7.PNG)
 ### 8. Tela de consulta de preços.
 
 Através da tela de consulta de preços, representada pela Figura 16, o
@@ -76,7 +76,7 @@ será exibida a lista de farmácias com seus respectivos valores do remédio
 consultado, ordenando do menor para maior valor, sempre exibindo a ultima
 atualização do remédio em cada farmácia.
 
-![TELA 8](img/tela8.png),
+![TELA 8](img/tela8.PNG),
 ### 9. Tela de cadastro de usuários.
 
 A tela Cadastro de Usuário, representada pela Figura 17, possibilita o
@@ -84,7 +84,7 @@ cadastro de usuários no sistema, que é necessário para acessar algumas
 funcionalidades. Deve-se preencher todos os campos e então clicar no botão
 Cadastrar. 
 
-![TELA 9](img/tela9.png)
+![TELA 9](img/tela9.PNG)
 ### 10. Tela de tela ínicial.
 
 A Figura 8 exibe a tela principal do sistema. Ao entrar nela o usuário se
@@ -96,4 +96,4 @@ nesta e em todas as outras telas está presente à opção de o usuário realiza
 sistema, caso ele se encontre com acesso é mostrado uma mensagem de boas
 vindas.
 
-![TELA 10](img/tela10.png)
+![TELA 10](img/tela10.PNG)
